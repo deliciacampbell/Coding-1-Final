@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
+ This site is to better understand who I am as a person and what shaped me into who I am today. I wrote about my love for music and how it has helped me get through tough struggles in my life. I included a few pictures of concerts to show what I wish to experience one day. 
